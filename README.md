@@ -122,4 +122,4 @@ Wolę więc zachować je dla siebie.
 Jeżeli w tekście powyżej nie zamieściłem hiperłącza, odnosiłem do tych zasobów:
 - [Polityka prywatności WhatsApp dla regionu europejskiego](https://www.whatsapp.com/legal/updates/privacy-policy-eea)
 - [Regulamin WhatsApp dla regionu europejskiego](https://www.whatsapp.com/legal/updates/terms-of-service-eea)
-- [Regulamin i polityka prywatnośći Signal - tylko EN](https://signal.org/legal/) - pozwalam sobie na 
+- [Regulamin i polityka prywatnośći Signal - tylko EN](https://signal.org/legal/) - pozwalam sobie na parafrazowanie tekstu
