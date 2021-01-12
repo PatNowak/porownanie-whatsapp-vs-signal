@@ -24,7 +24,7 @@ Nie zawiera ten opis nieco bardziej interesujących informacji, więc je tu zami
 
 - 2009 - powstanie WhatsAppa przez [Briana Actona](https://en.wikipedia.org/wiki/Brian_Acton) i [Jana Kuma](https://pl.wikipedia.org/wiki/Jan_Kum)
 - 2014 - pięć lat po powstaniu WhatsApp zostaje kupiony przez Facebook za ok. [19,3 miliarda dolarów](https://about.fb.com/news/2014/02/facebook-to-acquire-whatsapp/). WhatsApp miał wtedy według różnych danych [450 milionów](https://investor.fb.com/investor-news/press-release-details/2014/Facebook-to-Acquire-WhatsApp/default.aspx) aktywnych użytkowników
-- 2016 - WhatsApp porzuca opłacę w wysokości [1 dolara rocznie](https://blog.whatsapp.com/making-whats-app-free-and-more-useful) 
+- 2016 - WhatsApp porzuca opłatę w wysokości [1 dolara rocznie](https://blog.whatsapp.com/making-whats-app-free-and-more-useful) 
 - 2017 - Brian Acton odchodzi z Whatsappa i zakłada [Signal Foundation](https://en.wikipedia.org/wiki/Signal_Foundation)
 - 2018 - Jan Kum odchodzi z WhatsAppa i opuszcza radę dyrektorów Facebooka
 
