@@ -1,10 +1,12 @@
-# Porównanie komunikatorów Whatsapp, Signal i Telegram
+# Porównanie komunikatorów Whatsapp i Signal
 
 ## Wprowadzenie
 
 Problemem, który leży u podstaw tego porównania jest prywatność. Nie oszukujmy się, ale żyjemy w świecie, w którym nic nie jest darmowe. Jeśli za daną usługę nie płacimy naszymi środkami, zapłacimy czymś innym. Wielkie firmy marzą, aby mieć potężne bazy danych i na ich podstawie analizować trendy naszych zachowań, by móc później przewidzieć np. co byśmy chcieli kupić i w związku z tym jakiego rodzaju reklama na jaki konkretny produkt zadziała na nas najskuteczniej. Komunikatory internetowe w niezwykły sposób łączą ludzi i tak jak z rozmowy dwóch osób - nie tylko tego co mówią, ale też tego jak mówią - wiele możemy się o nich dowiedzieć, tak na podstawie tego jak wysyłamy wiadomości (kiedy, gdzie, z jakiego urządzenia etc.) firmy zbierające dane mogą się wiele dowiedzieć. Pytanie więc czy im na to pozwolimy.
 
 Aby nie opierać się na różnych - mniej lub bardziej rzetelnych - artykułach z sieci, postanowiłem samemu sprawdzić czym się różnią wspomniane trzy komunikatory. Sprawdziłem więc dokładnie zasady prywatności tych komunikatorów, ich regulaminy oraz zapoznałem się z ich historią czy sposobem finansowania. Wnioski nie są jednoznaczne, ale każdy z nas na podstawie własnych osobistych preferencji wybierze ten, który mu najbardziej odpowiada. Na koniec pozwoliłem sobie podsumować spostrzeżenia i zasugerować możliwe rozwiązania.
+
+Na wstępie dodam, że odrzuciłem z rozważań Telegram. Dlaczego? Zasadniczo to "mniejszy" WhatsApp, który choć nie wysyła danych do Facebooka, może je przetwarzać na swoje potrzeby. Aby lepiej unaocznić kontrast porównanie dotyczy WhatsApp i Signal.
 
 ## WhatsApp
 
@@ -91,7 +93,9 @@ W "Informacjach o Naszych Usługach" jest mowa o "Umożliwieniu dostępu do nasz
 
 Początki Signala sięgają 2014 roku, ale już wcześniej w 2010 w firmie [Whisper Systems](https://en.wikipedia.org/wiki/Whisper_Systems) pracował Moxie Marlinspike nad szyfrowanymi komunikatorem TextSecure. Gdy pod koniec 2011 jego firma została kupiona przez Twittera, po pewnym czasie Marlinspike opuścił swoją byłą firmę, aby założyć ["Open Whisper Systems"](https://signal.org/blog/welcome/) jako projekt Open Source. Dalej tam pracował nad bezpiecznym komunikatorem i owocem tego było powstanie kryptograficznego protokołu ["TextSecure v1"](https://web.archive.org/web/20150107094950/https://github.com/WhisperSystems/TextSecure/wiki/Protocol), który wykorzystano w TextSecure (a także WhatsAppie, Skype i innych - bo jest to możliwe dla wszystkich, jako że jest to kod otwartoźródłowy). W marcu 2016 roku przyjął on ostateczną nazwę Signal Protocol.
 
-Czy zauważyłeś, że Brian Acton założył Signal Foundation? Człowiek, który stoi za sukcesem WhatsAppa, jest też twarzą kolejnego komunikatora - Signal. W 2018 roku dołączył do Marlinspike i zamiast kontynować Open Whisper Systems, konsekwetnie utrzymali Signal w nazwie i rozpoczęli działalność nonprofil [Signal Foundation](https://signal.org/blog/signal-foundation/). Signal zarabia dzięki dobrowolnym [datkom](https://support.signal.org/hc/pl/articles/360031949872-FAQ-darczy%C5%84c%C3%B3w). Sam Brian Acton wpłacił na start [50 milionów dolarów](https://www.wired.com/story/signal-foundation-whatsapp-brian-acton/), by w skrócie, uczynić Signal tym, czy miałbyć WhatsApp.
+Czy zauważyłeś, że Brian Acton założył Signal Foundation? Człowiek, który stoi za sukcesem WhatsAppa, jest też twarzą kolejnego komunikatora - Signal. W 2018 roku dołączył do Marlinspike i zamiast kontynować Open Whisper Systems, konsekwetnie utrzymali Signal w nazwie i rozpoczęli działalność nonprofil [Signal Foundation](https://signal.org/blog/signal-foundation/). Signal zarabia dzięki dobrowolnym [datkom](https://support.signal.org/hc/pl/articles/360031949872-FAQ-darczy%C5%84c%C3%B3w). Sam Brian Acton wpłacił na start [50 milionów dolarów](https://www.wired.com/story/signal-foundation-whatsapp-brian-acton/), by w skrócie, uczynić Signal tym, czy miałbyć WhatsApp. Ludzie są gotowi płacić (składać dobrowolne datki) za korzystanie z darmowego komunikatora, bo:
+- mogą zobaczyć jaki dokładnie [kod zawiera](https://github.com/signalapp)
+- dbają o swoją prywatność ([Snowden](https://pl.wikipedia.org/wiki/Edward_Snowden) z niego korzysta, główna strona Signal o tym informuje)
 
 ### Co zbiera
 
@@ -105,23 +109,13 @@ Signal nie może:
 
 Generalnie lista jest znacznie krótsza i łatwiej się czyta politykę prywatności Signala w obcym języku, niż WhatsAppa w rodzimym.
 
-## Telegram
+## Wnioski
+
+Signal oferuje wszystko to, co WhatsApp poza statusami. Zapewnia jednak przy tym prywatność. Czy warto dla statusów przekazywać swoje dane Facebookowi? Jeżeli masz konto na "fejsie" lub "inście" to wszystko Ci jedno, bo i tak już je mają. Jeśli zaś masz Facebooka, ale korzystasz z niego z umiarem (jak ja), nie masz instagrama etc. to Signal to **zdecydowanie** lepsze rozwiązanie.
 
 ### Źródła
 
 Jeżeli w tekście powyżej nie zamieściłem hiperłącza, odnosiłem do tych zasobów:
 - [Polityka prywatności WhatsApp dla regionu europejskiego](https://www.whatsapp.com/legal/updates/privacy-policy-eea)
 - [Regulamin WhatsApp dla regionu europejskiego](https://www.whatsapp.com/legal/updates/terms-of-service-eea)
-- [Regulamin i polityka prywatnośći Signal - tylko EN](https://signal.org/legal/)
-
-https://telegram.org/faq
-
-https://t.me/durov/142
-
-https://telegram.org/privacy
-
-#### Tłumaczenie
-
-Jeżeli nie było oryginalnego polskiego tłumaczenia to na potrzebę cytatów i porównania samodzielnie przetłumaczyłem fragmenty tekstów źródłowych. Zastrzegam sobie prawo do popełnienia błędów w tym zakresie, więc wszelkie poprawki - od osób znających bieglej język angielski - będą mile widziane.
-
-TODO
+- [Regulamin i polityka prywatnośći Signal - tylko EN](https://signal.org/legal/) - pozwalam sobie na 
