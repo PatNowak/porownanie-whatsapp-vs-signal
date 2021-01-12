@@ -113,7 +113,7 @@ Generalnie lista jest znacznie krótsza i łatwiej się czyta politykę prywatn
 
 Signal oferuje wszystko to, co WhatsApp poza statusami. Zapewnia jednak przy tym prywatność. Czy warto dla statusów przekazywać swoje dane Facebookowi? Jeżeli masz konto na "fejsie" lub "inście" to wszystko Ci jedno, bo i tak już je mają. Jeśli zaś masz Facebooka, ale korzystasz z niego z umiarem (jak ja), nie masz instagrama etc. to Signal to **zdecydowanie** lepsze rozwiązanie.
 
-Nieprzypadkowo "ojcowie" WhatsAppa prędzej czy później odeszli po tym, jak Facebook zaczął kontrolować ten komunikator. Nikt nie płaci 19 miliardów dolarów za źróðło niepewnego zysku. Facebook zrobił co mógł (skasowanie symbolicznej rocznej opłaty), by przyciągnąć jak największą liczbę użytkowników, by zebrać jak najwięcej danych. Forbes szacował, że WhatsApp w 2020 roku zarobi [5 miliardów](https://www.forbes.com/sites/greatspeculations/2016/03/03/how-much-revenue-can-facebooks-whatsapp-generate-in-the-next-five-years/#c3fec5f40ea6) dolarów. Z czego? Bez reklam, sklepu i usług jedyne co stanowi walutę to dane. Nasze dane.
+Nieprzypadkowo "ojcowie" WhatsAppa prędzej czy później odeszli po tym, jak Facebook zaczął kontrolować ten komunikator. Nikt nie płaci 19 miliardów dolarów za źródło niepewnego zysku. Facebook zrobił co mógł (skasowanie symbolicznej rocznej opłaty), by przyciągnąć jak największą liczbę użytkowników, by zebrać jak najwięcej danych. Forbes szacował, że WhatsApp w 2020 roku zarobi [5 miliardów](https://www.forbes.com/sites/greatspeculations/2016/03/03/how-much-revenue-can-facebooks-whatsapp-generate-in-the-next-five-years/#c3fec5f40ea6) dolarów. Z czego? Bez reklam, sklepu i usług jedyne co stanowi walutę to dane. Nasze dane.
 
 Wolę więc zachować je dla siebie.
 
