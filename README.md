@@ -9,6 +9,7 @@ Aby nie opierać się na różnych - mniej lub bardziej rzetelnych - artykułac
 ## WhatsApp
 
 ### Historia 
+
 Na stronie [O nas](https://www.whatsapp.com/about/) możemy przeczytać:
 
 > Założycielami WhatApp są Jan Koum i Brian Acton, którzy wcześniej przez 20 lat, licząc razem, pracowali w Yahoo. Firma WhatsApp dołączyła do Facebooka w 2014 roku, ale wciąż działa jako osobna aplikacja skupiona na opracowywaniu usługi, która działa szybko i niezawodnie na całym świecie.
@@ -34,7 +35,7 @@ WhatsApp nie ma oficjalnie podanych dochodów jako firma przynależna do Faceboo
 
 Dodajmy do tego fakt, że WhatsApp (póki co) nie ma żadnych reklam. Z czysto matematycznego punktu widzenia jasno dostrzec, że głównym celem aplikacji jest nabywanie nowych użytkowników, gdyż dane są dla nich najcenniejsze.
 
-### Co WhatsApp zbiera
+### Co zbiera
 
 W typowo prawniczym tonie napisana jest polityka prywatności - nas dotyczy wariant dla regionu europejskiego, który jest w pełni zgodny z RODO.
 Nie zmienia to faktu, że WhatsAppa interesuje bardzo naszych danych.
@@ -85,6 +86,26 @@ Umożliwienie dostępu do naszych Usług:
 W "Informacjach o Naszych Usługach" jest mowa o "Umożliwieniu dostępu do naszych Usług"... Co samo w sobie sensu nie ma, poza tym że informuje nas (niejasno), że konieczne jest przechowywanie i dystrubuowanie treści i informacji (a że takowych WhatsApp sam nie generuje, to chodzi o nasze) w ich centrach danych.
 
 ## Signal
+
+### Historia
+
+Początki Signala sięgają 2014 roku, ale już wcześniej w 2010 w firmie [Whisper Systems](https://en.wikipedia.org/wiki/Whisper_Systems) pracował Moxie Marlinspike nad szyfrowanymi komunikatorem TextSecure. Gdy pod koniec 2011 jego firma została kupiona przez Twittera, po pewnym czasie Marlinspike opuścił swoją byłą firmę, aby założyć ["Open Whisper Systems"](https://signal.org/blog/welcome/) jako projekt Open Source. Dalej tam pracował nad bezpiecznym komunikatorem i owocem tego było powstanie kryptograficznego protokołu ["TextSecure v1"](https://web.archive.org/web/20150107094950/https://github.com/WhisperSystems/TextSecure/wiki/Protocol), który wykorzystano w TextSecure (a także WhatsAppie, Skype i innych - bo jest to możliwe dla wszystkich, jako że jest to kod otwartoźródłowy). W marcu 2016 roku przyjął on ostateczną nazwę Signal Protocol.
+
+Czy zauważyłeś, że Brian Acton założył Signal Foundation? Człowiek, który stoi za sukcesem WhatsAppa, jest też twarzą kolejnego komunikatora - Signal. W 2018 roku dołączył do Marlinspike i zamiast kontynować Open Whisper Systems, konsekwetnie utrzymali Signal w nazwie i rozpoczęli działalność nonprofil [Signal Foundation](https://signal.org/blog/signal-foundation/). Signal zarabia dzięki dobrowolnym [datkom](https://support.signal.org/hc/pl/articles/360031949872-FAQ-darczy%C5%84c%C3%B3w). Sam Brian Acton wpłacił na start [50 milionów dolarów](https://www.wired.com/story/signal-foundation-whatsapp-brian-acton/), by w skrócie, uczynić Signal tym, czy miałbyć WhatsApp.
+
+### Co zbiera
+
+Signal wykorzystuje:
+- numer telefonu, (jeśli podane) nazwa i logo profilu
+- nasze kontakty, aby zobaczyć kto jest użytkownikiem Signal. Jeśli je przekaże, to w postaci zaszyfrowanej.
+- inne firmy, więc od nich może nam przesłać na nasz numer telefonu kod dostępu etc.
+
+Signal nie może:
+- deszyfrować (odczytać) naszych wiadomości, są one przechowywane tylko na danym urządzeniu. Po zmianie urządzenia tracisz historię.
+
+Generalnie lista jest znacznie krótsza i łatwiej się czyta politykę prywatności Signala w obcym języku, niż WhatsAppa w rodzimym.
+
+## Telegram
 
 ### Źródła
 
