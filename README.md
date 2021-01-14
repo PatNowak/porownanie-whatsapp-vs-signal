@@ -40,7 +40,7 @@ Dodajmy do tego fakt, że WhatsApp (póki co) nie ma żadnych reklam. Z czysto m
 ### Co zbiera
 
 W typowo prawniczym tonie napisana jest polityka prywatności - nas dotyczy wariant dla regionu europejskiego, który jest w pełni zgodny z RODO.
-Nie zmienia to faktu, że WhatsAppa interesuje bardzo naszych danych.
+Nie zmienia to faktu, że WhatsAppa interesują bardzo nasze dane.
 
 > WhatsApp musi otrzymywać i gromadzić niektóre informacje w celu świadczenia, ulepszania, poznawania, indywidualizowania, wspierania i sprzedaży naszych Usług, również podczas instalowania naszych Usług, korzystania z nich oraz uzyskiwania do nich dostępu przez użytkowników. Typy otrzymywanych i gromadzonych informacji zależą od sposobu korzystania z naszych Usług.
 
